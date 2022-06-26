@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "https://a5b8-131-226-217-34.ngrok.io",
-  "token": "ZWI0ZmExYjAtYzI2OS00NjE0LWIwM2MtNGJmOTQyZWNmZGQ0NWI3YWZiY2QtYmQw_P0A1_bd25aa38-ad6d-4f7b-8d98-8423776affa4",
+  "webhookUrl": "https://webexbot-getstarted.herokuapp.com/",
+  "token": "YmE4ZmJhMzQtNTljNy00ODg2LWEzNGEtNTM2Y2E5NDA4MTIxZWNkMGRjZGQtY2Vj_P0A1_bd25aa38-ad6d-4f7b-8d98-8423776affa4",
   "port": 1337
 }
